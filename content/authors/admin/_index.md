@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Sociology Graduate Student: MA Level
+role: "Sociology Graduate Student: MA Level"
 
 # Organizations/Affiliations
 organizations:
