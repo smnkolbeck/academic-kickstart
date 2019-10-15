@@ -8,10 +8,11 @@
   url = "#about"
   weight = 10
 
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+[[main]]
+   name = "CV"
+    url = "files/cv.pdf"
+    weight = 70
+
 
 [[main]]
   name = "Contact"
