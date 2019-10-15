@@ -14,7 +14,7 @@ role: Sociology Graduate Student: MA Level
 
 # Organizations/Affiliations
 organizations:
-- name: The Ohio State University
+- name: "The Ohio State University"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
