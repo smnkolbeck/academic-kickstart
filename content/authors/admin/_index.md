@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Simon Kolbeck
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Sociology Graduate Student: MA Level
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The Ohio State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include desistance from crime, ecological determinants of violence, policing, and criminology in general.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- criminology
+
+
 
 education:
   courses:
