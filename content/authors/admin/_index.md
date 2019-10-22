@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
- - course: MS in Sociology
+  - course: MS in Sociology
     institution: The Ohio State University
     year: 2020
   - course: BA in Sociolgoy and Political Science
