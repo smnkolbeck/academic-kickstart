@@ -14,7 +14,7 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[feature]]
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
@@ -43,7 +43,7 @@ subtitle = ""
   icon = "language"
   icon_pack = "fas"
   name = "Language"
-  description = "Korean, Chinese"
+  description = "German"
 
 
 +++
