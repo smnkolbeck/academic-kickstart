@@ -21,21 +21,21 @@ organizations:
 bio: My research interests include desistance from crime, ecological determinants of violence, policing, and criminology in general.
 
 interests:
-- criminology
+- Desistance from Crime
+- Outcomes of Police-Community Relations
+- Methodology
+- Cross-National 
 
 
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+ - course: MS in Sociology
+    institution: The Ohio State University
+    year: 2020
+  - course: BA in Sociolgoy and Political Science
+    institution: St. Mary's College of Maryland
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -69,7 +69,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am a sociology PhD student at The Ohio State University studying diverse topics in criminology.  I am currently involved in a long-term study that seeks to determine the role of employment and cognitive change in the desistance process.  In addition to this project, I conduct independent research that examines variance in homicide rates across space.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
