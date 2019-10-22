@@ -40,7 +40,7 @@ subtitle = ""
 
 
 [[feature]]
-  icon = "language"
+  icon = "beer"
   icon_pack = "fas"
   name = "Language"
   description = "German"
