@@ -14,21 +14,36 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
+[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
+  description = ""
   
 [[feature]]
-  icon = "chart-line"
+  icon = "chart-bar"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Stata"
+  description = ""
+  
+[[feature]]
+  icon = "file-alt"
+  icon_pack = "fas"
+  name = "LaTeX"
+  description = ""
 
 [[feature]]
-  icon = "chart-line"
-  icon_pack = " "
-  name = "STATA"
-  
+  icon = "markdown"
+  icon_pack = "fab"
+  name = "Markdown"
+  description = ""
+
+
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Language"
+  description = "Korean, Chinese"
 
 
 +++
