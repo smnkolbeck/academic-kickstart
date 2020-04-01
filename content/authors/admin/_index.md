@@ -22,6 +22,7 @@ bio: My research interests include desistance from crime, ecological determinant
 
 interests:
 - Desistance from Crime
+- Re-offense and re-integration
 - Outcomes of Police-Community Relations
 - Methodology
 - Cross-National 
@@ -47,13 +48,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/kolbeck_simon
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link:
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/smnkolbeck
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
