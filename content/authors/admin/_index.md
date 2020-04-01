@@ -25,7 +25,7 @@ interests:
 - Re-offense and re-integration
 - Outcomes of Police-Community Relations
 - Methodology
-- Cross-National 
+- Cross-National Crime
 
 
 
@@ -34,7 +34,7 @@ education:
   - course: MS in Sociology
     institution: The Ohio State University
     year: 2020
-  - course: BA in Sociolgoy and Political Science
+  - course: BA in Sociology and Political Science
     institution: St. Mary's College of Maryland
     year: 2017
 
