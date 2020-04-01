@@ -49,9 +49,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/kolbeck_simon
-- icon: google-scholar
-  icon_pack: ai
-  link:
+#- icon: google-scholar
+#  icon_pack: ai
+#  link:
 - icon: github
   icon_pack: fab
   link: https://github.com/smnkolbeck
