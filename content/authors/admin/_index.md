@@ -70,5 +70,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a sociology PhD student at The Ohio State University studying diverse topics in criminology.  I am currently involved in a long-term study that seeks to determine the role of employment and cognitive change in the desistance process.  In addition to this project, I conduct independent research that examines variance in homicide rates across space.
+I am a sociology PhD student at The Ohio State University studying criminology.  The main aim of my research is to uncover the individual-level and structural conditions that affect a released offender's likelihood of reoffense. I am currently involved in a number of quantitative and mixed-method project that examine the role of employment and cognition in reducing criminal offending after release from prison. My other work focuses on cross-national variation in homicide rate and the relationship between social ecologies, policing, and violence. My personal interests include playing and watching soccer, board and card-games, and real-time strategy computer games.  
 
