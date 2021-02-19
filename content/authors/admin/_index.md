@@ -22,8 +22,8 @@ bio: My research interests include desistance from crime, ecological determinant
 
 interests:
 - Desistance from Crime
-- Re-offense and re-integration
-- Outcomes of Police-Community Relations
+- Recidivism and Reentry
+- Police-Community Relations, Policing, and Crime
 - Methodology
 - Cross-National Crime
 
