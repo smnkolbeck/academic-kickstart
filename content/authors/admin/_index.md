@@ -71,6 +71,7 @@ user_groups:
 - Visitors
 ---
 I am a graduate student in the The Ohio State University [Department of Sociology](https://sociology.osu.edu/) studying criminology.  
+
 My research focuses on conditions that influence recidivism and desistance among the formerly incarcerated, with a focus on employment and cognitive factors. In addition, my work aims to enhance understanding on the relationship between work (both on and off-the-books) and crime.
 I am currently involved in a number of projects that examine how employment, race, and cognitive change influences re-offending among the formerly incarcerated. 
 
