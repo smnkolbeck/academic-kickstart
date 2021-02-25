@@ -71,8 +71,11 @@ user_groups:
 - Visitors
 ---
 I am a graduate student in the The Ohio State University [Department of Sociology](https://sociology.osu.edu/) studying criminology.  
-The aim of my research is to uncover the ways in which individual-level and structural conditions influence the likelihood of re-offense of formerly incarcerated individuals. 
-I am currently involved in a number of projects that examine the role of employment, race, cognition and other factors in reducing criminal offending among the formerly incarcerated. 
+My research focuses on conditions that influence recidivism and desistance among the formerly incarcerated, with a focus on employment and cognitive factors. In addition, my work aims to enhance understanding on the relationship between work (both on and off-the-books) and crime.
+I am currently involved in a number of projects that examine how employment, race, and cognitive change influences re-offending among the formerly incarcerated. 
+
 At Ohio State, I am an affiliate of the [Criminal Justice Research Center (CJRC)](https://cjrc.osu.edu/)
+
+I am primarily advised by [Dr. Paul Bellair](https://sociology.osu.edu/people/bellair.1) and [Dr. Steven Lopez](https://sociology.osu.edu/people/lopez.137)
 My personal interests include playing and watching soccer, board and card-games, and real-time strategy computer games.  
 
