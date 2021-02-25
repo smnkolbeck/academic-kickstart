@@ -70,5 +70,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a sociology PhD student at The Ohio State University studying criminology.  The main aim of my research is to uncover the individual-level and structural conditions that affect a released offender's likelihood of reoffense. I am currently involved in a number of quantitative and mixed-method projects that examine the role of employment and cognition in reducing criminal offending after release from prison. My other work focuses on cross-national variation in homicide rates and the relationship between social ecologies, policing, and violence. My personal interests include playing and watching soccer, board and card-games, and real-time strategy computer games.  
+I am a graduate student in the The Ohio State University [Department of Sociology](https://sociology.osu.edu/) studying criminology.  
+The aim of my research is to uncover the ways in which individual-level and structural conditions influence the likelihood of re-offense of formerly incarcerated individuals. 
+I am currently involved in a number of projects that examine the role of employment, race, cognition and other factors in reducing criminal offending among the formerly incarcerated. 
+At Ohio State, I am an affiliate of the [Criminal Justice Research Center (CJRC)](https://cjrc.osu.edu/)
+My personal interests include playing and watching soccer, board and card-games, and real-time strategy computer games.  
 
