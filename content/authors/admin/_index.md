@@ -75,10 +75,11 @@ I am a graduate student in the The Ohio State University [Department of Sociolog
 
 My research focuses on conditions that influence recidivism and desistance among the formerly incarcerated, with a focus on employment and cognitive factors. In addition, my work aims to enhance understanding on the relationship between work (both on and off-the-books) and crime.
 I am currently involved in a number of projects that examine how employment, race, and cognitive change influences re-offending among the formerly incarcerated. 
+My hobbies include soccer, board and card-games, and real-time strategy computer games.  
 
 At OSU, I am an affiliate of the [Criminal Justice Research Center (CJRC)](https://cjrc.osu.edu/) and am primarily advised by [Dr. Paul Bellair](https://sociology.osu.edu/people/bellair.1) and [Dr. Steven Lopez](https://sociology.osu.edu/people/lopez.137).
 
 My work can be viewed [here](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4LPHfc_Dw6Bzau8XkyS9656DswH6lLQb3Y8Zcv-aG0xjHKKx55B1aLnoWkYinP44UrcQlw5IBh6J7DniifAqfieiuDlQ&user=Dg7aMxEAAAAJ)
 
-My personal interests include playing and watching soccer, board and card-games, and real-time strategy computer games.  
+
 
