@@ -75,13 +75,11 @@ user_groups:
 ---
 I am a graduate student in the The Ohio State University [Department of Sociology](https://sociology.osu.edu/) studying criminology.  
 
-My research focuses on conditions that influence recidivism and desistance among the formerly incarcerated, with a focus on employment and cognitive factors. In addition, my work aims to enhance understanding on the relationship between work (both on and off-the-books) and crime.
-I am currently involved in a number of projects that examine how employment, race, and cognitive change influences re-offending among the formerly incarcerated. 
-My hobbies include soccer, board and card-games, and real-time strategy computer games.  
+Broadly speaking, I focus on three interconnected lines of research: recidivism and reentry, the correlates of desistance from crime, and the relationship between employment and offending. My work on recidivism primarily probes whether and under what conditions employment is associated with declining recidivism risk among correctional populations. This line of research has led to co-authored publications in [Criminology](https://onlinelibrary.wiley.com/doi/full/10.1111/1745-9125.12317) and [Justice Quarterly](https://www.tandfonline.com/doi/abs/10.1080/07418825.2023.2201330). My dissertation, which is currently in the works, builds on my prior work by 1) exploring associations between a configurational measure of employment quality and offending, and 2) adjudicating among competing theories of desistance.  
 
-At OSU, I am an affiliate of the [Criminal Justice Research Center (CJRC)](https://cjrc.osu.edu/) and am primarily advised by [Dr. Paul Bellair](https://sociology.osu.edu/people/bellair.1) and [Dr. Steven Lopez](https://sociology.osu.edu/people/lopez.137).
+At OSU, I am an affiliate of the [Criminal Justice Research Center (CJRC)](https://cjrc.osu.edu/) and am primarily advised by [Dr. Paul Bellair](https://sociology.osu.edu/people/bellair.1) and [Dr. Steven Lopez](https://sociology.osu.edu/people/lopez.137). At the CJRC, I develop data visualizations and use spatial modeling techniques to analyze crime trends in Columbus, Ohio. 
 
-My work can be viewed [here](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4LPHfc_Dw6Bzau8XkyS9656DswH6lLQb3Y8Zcv-aG0xjHKKx55B1aLnoWkYinP44UrcQlw5IBh6J7DniifAqfieiuDlQ&user=Dg7aMxEAAAAJ)
+The buld of my published work can be viewed [here](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4LPHfc_Dw6Bzau8XkyS9656DswH6lLQb3Y8Zcv-aG0xjHKKx55B1aLnoWkYinP44UrcQlw5IBh6J7DniifAqfieiuDlQ&user=Dg7aMxEAAAAJ)
 
 
 
