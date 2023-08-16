@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Simon Kolbeck
+name: Simon G. Kolbeck
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "PhD Student in Sociology"
+role: "Sociology Ph.D. Candidate"
 
 # Organizations/Affiliations
 organizations:
@@ -25,6 +25,8 @@ interests:
 - Recidivism and Reentry
 - Work and Crime
 - Corrections and Mass Incarceration
+- Quantitative Methods
+- Spatial Correlates of Crime
 
 
 
