@@ -73,7 +73,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a graduate student in the The Ohio State University [Department of Sociology](https://sociology.osu.edu/) studying criminology.  
+I am a Ph.D. in the The Ohio State University [Department of Sociology](https://sociology.osu.edu/). Using advanced quantitative methods, I study topics related to criminology and criminal justice.  
 
 Broadly speaking, I focus on three interconnected lines of research: recidivism and reentry, the correlates of desistance from crime, and the relationship between employment and offending. My work on recidivism primarily probes whether and under what conditions employment is associated with declining recidivism risk among correctional populations. This line of research has led to co-authored publications in [Criminology](https://onlinelibrary.wiley.com/doi/full/10.1111/1745-9125.12317) and [Justice Quarterly](https://www.tandfonline.com/doi/abs/10.1080/07418825.2023.2201330). My dissertation, which is currently in the works, builds on my prior work by 1) exploring associations between a configurational measure of employment quality and offending, and 2) adjudicating among competing theories of desistance.  
 
