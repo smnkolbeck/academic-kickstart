@@ -10,23 +10,25 @@ authors:
 superuser: true
 
 # Role/position
-role: "Sociology Ph.D. Candidate"
+role: "Criminal Justice Researcher"
 
 # Organizations/Affiliations
 organizations:
-- name: "The Ohio State University"
-  url: ""
+- name: "The Ohio State University - Criminal Justice Research Center"
+  url: https://cjrc.osu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include desistance from crime, ecological determinants of violence, policing, and criminology in general.
 
-interests:
-- Desistance from Crime
+interests
 - Recidivism and Reentry
 - Work and Crime
+- Spatial Correlates of Crime
+- Evidence-based and hot-spot policing
 - Corrections and Mass Incarceration
 - Quantitative Methods
-- Spatial Correlates of Crime
+- R Programming
+
 
 
 
@@ -73,11 +75,11 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Ph.D. candidate in the The Ohio State University [Department of Sociology](https://sociology.osu.edu/). Using advanced quantitative methods, I study topics related to criminology and criminal justice.  
+I am a criminal justice researcher with a Ph.D. in sociology from The Ohio State University. I apply advanced quantitative methodstostudy topics related to criminology and criminal justice. My published work, which has been featured by the [Council on Criminal Justice](https://counciloncj.org/does-stable-employment-post-release-reduce-recidivism/) and the [Criminology Academy Podcast](https://thecriminologyacademy.com/episode-67-kolbeck/), can be viewed [here](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4LPHfc_Dw6Bzau8XkyS9656DswH6lLQb3Y8Zcv-aG0xjHKKx55B1aLnoWkYinP44UrcQlw5IBh6J7DniifAqfieiuDlQ&user=Dg7aMxEAAAAJ).  
 
-Broadly speaking, I focus on three interconnected lines of research: recidivism and reentry, the correlates of desistance from crime, and the relationship between employment and offending. My work on recidivism primarily probes whether and under what conditions employment is associated with declining recidivism risk among correctional populations. This line of research has led to co-authored publications in [Criminology](https://onlinelibrary.wiley.com/doi/full/10.1111/1745-9125.12317) and [Justice Quarterly](https://www.tandfonline.com/doi/abs/10.1080/07418825.2023.2201330). My dissertation, which is currently in the works, builds on my prior work by 1) exploring associations between a configurational measure of employment quality and offending, and 2) adjudicating among competing theories of desistance. My work has been featured in the [Criminology Academy Podcast](https://thecriminologyacademy.com/episode-67-kolbeck/) and by the [Council on Criminal Justice](https://counciloncj.org/does-stable-employment-post-release-reduce-recidivism/).
+My published work focuses on three interconnected lines of research: recidivism and reentry, the correlates of desistance from crime, and the relationship between employment and offending. My work on recidivism primarily probes whether and under what conditions employment is associated with declining recidivism risk among correctional populations. 
 
-At OSU, I am an affiliate of the [Criminal Justice Research Center (CJRC)](https://cjrc.osu.edu/) and am primarily advised by [Dr. Paul Bellair](https://sociology.osu.edu/people/bellair.1) and [Dr. Steven Lopez](https://sociology.osu.edu/people/lopez.137). At the CJRC, I develop data visualizations and use spatial modeling techniques to analyze crime trends in Columbus, Ohio. 
+At the [Criminal Justice Research Center (CJRC)](https://cjrc.osu.edu/) I collaborate with Dr. Paul Bellair on various projects commissioned by local law enforcement agencies. In an ongoing collaboration with the Franklin County Sheriff's Office, I developed an [analytic tool](https://smnkolbeck.shinyapps.io/FranklinCounty_Crime_Explorer/) using R shiny that allows the user to explore crime trends in Franklin County, Ohio. In an effort to facilitate more efficient analyses of crime incident data, I am developing the [Crime Analyzer](https://github.com/smnkolbeck/CrimeAnalyzer) R package that provides a host of useful functions for analyzing crime incident data. Finally, in a recently completed project, Dr. Bellair and I completed a comprehensive crime analysis for the Columbus Police Department. 
 
 My published work can be viewed [here](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4LPHfc_Dw6Bzau8XkyS9656DswH6lLQb3Y8Zcv-aG0xjHKKx55B1aLnoWkYinP44UrcQlw5IBh6J7DniifAqfieiuDlQ&user=Dg7aMxEAAAAJ)
 
